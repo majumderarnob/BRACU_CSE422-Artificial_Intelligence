@@ -1,1 +1,1 @@
-# BRACU_CSE422-Artificial_Intelligence
+These are my Lab Assignment files with solution of Brac University's Computer Science & Engineering departmental core course CSE422 known as Artifical Intelligence. These Lab assignments are given during SUMMER'2023 Semester for the course work.
